@@ -7,7 +7,7 @@
 ## 학력
 - 한영고등학교 졸업
 - 한양대학교 ERICA캠퍼스 스포츠과학부 졸업
-- 한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 수료
+- 한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 
 
 ## STACKS
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
