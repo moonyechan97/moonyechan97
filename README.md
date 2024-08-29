@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gunhee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20YECHAN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
 
 
 <!-- Introduce -->
 <h3 align=center>
-	안녕하세요 배건희입니다.😀
+	안녕하세요 문예찬입니다.😀
 </h3>
 <br><br>
 
