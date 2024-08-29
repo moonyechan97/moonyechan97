@@ -53,7 +53,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&hide_progress=true">
 	<br>
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584">
+  <a href="https://solved.ac/myc97"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myc97&theme=dark"/></a>
 </p>
 <br><br><br>
 
