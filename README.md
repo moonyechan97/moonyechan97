@@ -24,7 +24,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeyJihyun&theme=nord_dark)
+---
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latias0505&exclude_repo=github-readme-stats,latias0505.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latias0505&show_icons=true&theme=cobalt)<br>
+  
+---
 
-## 열심히 공부하는중
 </div>
