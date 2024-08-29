@@ -1,38 +1,80 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gunhee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
+
+
+<!-- Introduce -->
+<h3 align=center>
+	안녕하세요 배건희입니다.😀
+</h3>
+<br><br>
+
+
+<!-- Platforms & Languages -->
 <div align=center>
-## HI!!
-
-- Name : 문예찬
-- Email : skyfiy97@naver.com
-- GitHub : github.com/moonyechan97
-
-## 학력
-- 한영고등학교 졸업
-- 한양대학교 ERICA캠퍼스 스포츠과학부 졸업
-- 한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 
-
-# 📚STACKS📚
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black"><br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> 
-<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Twitter&logoColor=white"> 
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
----
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latias0505&exclude_repo=github-readme-stats,latias0505.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latias0505&show_icons=true&theme=cobalt)<br>
-  
----
-
-# BaekJoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)<br>
-  
----
+  <p>✨ Platforms & Languages ✨</p>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <br>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<br>
 </div>
+<br>
+
+
+<!-- Tools -->
+<div align=center>
+  <p>🛠 Tools 🛠</p>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+
+
+<!-- Mail & Portfolio -->
+<div align=center>
+  <p>🎨 Mail & Portfolio 🎨</p>
+	<a href="mailto:bgh2584@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://powerful-tilapia-138.notion.site/fc1a2a1e125742cda202f02b2d914059">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+</div>
+<br><br>
+
+
+<!-- Stats / Backjoon / Most use -->
+<p align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&hide_progress=true">
+	<br>
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584">
+</p>
+<br><br><br>
+
+
+<!-- Hits -->
+<p align=right>
+  <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaennigans&count_bg=%233D81C8&title_bg=%23555555&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
+</p>
+
+
+
+<!--
+**baennigans/baennigans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
