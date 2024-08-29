@@ -1,3 +1,4 @@
+<div align=center>
 ## HI!!
 
 - Name : 문예찬
@@ -26,3 +27,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeyJihyun&theme=nord_dark)
 
 ## 열심히 공부하는중
+</div>
