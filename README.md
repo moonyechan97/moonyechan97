@@ -38,7 +38,7 @@
 <!-- Mail & Portfolio -->
 <div align=center>
   <p>🎨 Mail & Portfolio 🎨</p>
-	<a href="mailto:bgh2584@gmail.com">
+	<a href="mailto:skyfiy97@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://powerful-tilapia-138.notion.site/fc1a2a1e125742cda202f02b2d914059">
