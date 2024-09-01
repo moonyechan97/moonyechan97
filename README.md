@@ -124,9 +124,8 @@
 - **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
 - 이메일 웹페이지의 초기모델
 - **세부기능**
-    - MVC 패턴 적용
-    - 사용자의 키보드 입력을 통한  등
-    - 공지사항 및 한줄형 게시글 등록
+    - 사용자의 키보드 입력을 통한 회원가입과 로그인, 메일 송수신 등
+
 
 <hr>
 
