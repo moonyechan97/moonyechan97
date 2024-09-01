@@ -49,30 +49,6 @@
 
 ## **프 로 젝 트 이 력**
 
-### **오픈 뱅킹 웹페이지 (개인)**
-2023.06.17~07.03
-
-`Java 11` `Spring` `Ajax` `JQuery` `JavaScript` `Oracle 21C XE`   
-
-- **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
-- **GitHub Repository :** https://github.com/water4360/web-Hari-Bank
-- **Youtube 시연영상 :** [https://youtu.be/web-bank](https://youtu.be/mZ-2aBMEeJ8?si=k5JrsVj4Ytbm-Hjm)
-- 보유 계좌조회 및 이체가 가능한 온라인 뱅킹서비스
-- **세부기능**
-    - 회원가입 및 계좌 개설
-    - Transaction 처리를 통한 당행 계좌조회/이체 및 오픈뱅킹
-    
-- **문제**
-    
-    DAO에서 PreparedStatement를 사용할 때 ‘부적합한 열 인덱스’ 에러의 잦은 발생
-    
-- **해결**
-    
-    쿼리의 인덱스를 정할 때 숫자가 아닌 idx 변수를 이용하여 중간에 구문에 변동이 생기더라도 변화에 민감하지 않게 했습니다.
-  
-<hr>
-
-
 ### **수어 인식(개인)**
 2023.07.29~08.10
 
