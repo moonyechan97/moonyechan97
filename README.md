@@ -120,7 +120,7 @@
 
 `Java11` `JDBC` `Oracle 21C XE`
 
-- **GitHub Repository :** [Github-Library](https://github.com/water4360/Library.git)
+- **GitHub Repository :** [Github-Library](https://github.com/moonyechan97/EverydayMail.git)
 - **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
 - 이메일 웹페이지의 초기모델
 - **세부기능**
