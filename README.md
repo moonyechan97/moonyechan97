@@ -101,13 +101,13 @@
 
 <hr>
 
-### (개인)**
-2023.05.11~05.15
+### **KOM CARD 홈페이지(개인)**
+2023.06.17~06.30
 
-`JavaScript` `JQuery` `CSS`
 
-- **GitHub Repository :** [Github-Game](https://github.com/water4360/web-haris-walk.git)
-- **배포 웹페이지 :** [water4360.github.io/web-haris-walk/](https://water4360.github.io/web-haris-walk/)
+- **GitHub Repository :** [Github-Game](https://github.com/moonyechan97/KOMcard.git)
+- **배포 웹페이지 :** [youtu.be/library](https://youtu.be/hlHIx_g2s84?si=nN9VIgx9uq3hPdnZ)
+  		      [youtu.be/library](https://youtu.be/nnKCGwyjo5A?si=mi0OGkQXbbE6bVll)
 - JavaScript 미니게임
 - **세부기능**
     - 키보드 조작형 캐릭터 게임
@@ -118,7 +118,6 @@
 ### **Java console형 이메일 프로그램 (개인)**
 2023.04.10~04.24
 
-`Java11` `JDBC` `Oracle 21C XE`
 
 - **GitHub Repository :** [Github-Library](https://github.com/moonyechan97/EverydayMail.git)
 - **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
