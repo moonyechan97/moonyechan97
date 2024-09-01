@@ -73,16 +73,14 @@
 <hr>
 
 
-### **도서관 웹페이지 (개인)**
-2023.06.02~06.12
+### **수어 인식(개인)**
+2023.07.29~08.10
 
-`Java 11` `JavaScript` `HTML` `CSS` `Oracle 21C XE`
-
-- **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
-- **GitHub Repository :** [Github-Web-Library](https://github.com/water4360/Soob-Lib)
+- **GitHub Repository :** (https://github.com/moonyechan97/AIproject.git)
 - **세부기능**
-    - (사용자) 도서 조회, 대여, 반납 / (관리자) 신규도서등록, 수정, 삭제
-    - 방문자 누구든 온라인 도서관에서 보유 중인 전체도서목록 조회가 가능하며 로그인한 회원의 경우 대출신청이 가능합니다.
+    - 웹 페이지에서 카메라로 수어를 인식하여 YOLO 모델 학습 결과 텍스트를 화면에 출력
+    - 데이터를 통해 수어를 예측하도록 LSTM 모델을 이용하여 수어 손동작 학습
+  
 <hr>
 
 ### **Book Management (개인)**
