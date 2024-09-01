@@ -105,10 +105,9 @@
 
 - **GitHub Repository :** (https://github.com/moonyechan97/KOMcard.git)
 - **Youtube 시연영상 :** (https://youtu.be/hlHIx_g2s84?si=nN9VIgx9uq3hPdnZ) / (https://youtu.be/nnKCGwyjo5A?si=mi0OGkQXbbE6bVll)
-- JavaScript 미니게임
+
 - **세부기능**
-    - 키보드 조작형 캐릭터 게임
-    - Hit box 설정을 통한 점수 획득, 조건 충족시 게임 클리어
+    - 카드 신청 및 카드사용 내역 조회 등
  
 <hr>
 
