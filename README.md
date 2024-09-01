@@ -105,9 +105,8 @@
 2023.06.17~06.30
 
 
-- **GitHub Repository :** [Github-Game](https://github.com/moonyechan97/KOMcard.git)
-- **배포 웹페이지 :** [youtu.be/library](https://youtu.be/hlHIx_g2s84?si=nN9VIgx9uq3hPdnZ)
-  		      [youtu.be/library](https://youtu.be/nnKCGwyjo5A?si=mi0OGkQXbbE6bVll)
+- **GitHub Repository :** (https://github.com/moonyechan97/KOMcard.git)
+- **Youtube 시연영상 :** (https://youtu.be/hlHIx_g2s84?si=nN9VIgx9uq3hPdnZ) / (https://youtu.be/nnKCGwyjo5A?si=mi0OGkQXbbE6bVll)
 - JavaScript 미니게임
 - **세부기능**
     - 키보드 조작형 캐릭터 게임
@@ -119,8 +118,8 @@
 2023.04.10~04.24
 
 
-- **GitHub Repository :** [Github-Library](https://github.com/moonyechan97/EverydayMail.git)
-- **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
+- **GitHub Repository :** (https://github.com/moonyechan97/EverydayMail.git)
+- **Youtube 시연영상 :** (https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
 - 이메일 웹페이지의 초기모델
 - **세부기능**
     - 사용자의 키보드 입력을 통한 회원가입과 로그인, 메일 송수신 등
