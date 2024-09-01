@@ -115,17 +115,17 @@
  
 <hr>
 
-### **Java console형 도서관리 프로그램 (개인)**
+### **Java console형 이메일 프로그램 (개인)**
 2023.04.18~04.24
 
 `Java11` `JDBC` `Oracle 21C XE`
 
 - **GitHub Repository :** [Github-Library](https://github.com/water4360/Library.git)
-- **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/JXnixPSEYhg?si=IB3QTVfux8zK9eAU)
-- 도서관 웹페이지의 초기모델
+- **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/gchkjIQ7Bg8?si=x2DKAgk6iweCh1Q9)
+- 이메일 웹페이지의 초기모델
 - **세부기능**
     - MVC 패턴 적용
-    - 사용자의 키보드 입력을 통한 도서 조회/검색, 대여/반납, 등록/수정/삭제 등
+    - 사용자의 키보드 입력을 통한  등
     - 공지사항 및 한줄형 게시글 등록
 
 <hr>
