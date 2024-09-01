@@ -85,19 +85,17 @@
     - 방문자 누구든 온라인 도서관에서 보유 중인 전체도서목록 조회가 가능하며 로그인한 회원의 경우 대출신청이 가능합니다.
 <hr>
 
-### **영화 프리뷰 웹페이지 (개인)**
-2023.05.16
+### **Book Management (개인)**
+2023.07.15~07.22
 
-`OpenAPI` `JavaScript` `CSS` `Vue.js`
+- **GitHub Repository :** (https://github.com/moonyechan97/BookService.git)
 
-- **GitHub Repository :** [Github-Movie](https://github.com/water4360/web-movie-details)
-- **배포 웹페이지 :** [water4360.github.io/web-movie-details/](https://water4360.github.io/web-movie-details/)
-- OpenAPI를 활용한 상영예정영화 페이지
+- 스프링부트를 이용한 도서 관리 사이트
 - **세부기능**
-    - [main] json 데이터 기반 무작위 영화예고편 재생
-    - OpenAPI로 가져온 영화DB 활용
-    - Vue.js를 활용, 음절별 실시간 검색
-    - 상세페이지에서 영화 검색 및 예매사이트(네이버, CGV, 메가박스)
+    - 도서 전체 조회 기능
+    - 도서 1권 조회 기능
+    - 새 도서 추가 기능
+    - 기존 도서 수정 기능
 
 <hr>
 
