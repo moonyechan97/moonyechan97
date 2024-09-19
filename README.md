@@ -50,7 +50,7 @@
 ## **프 로 젝 트 이 력**
 
 ### **수어 인식(개인)**
-2023.07.29~08.10
+2024.07.29~08.10
 
 - **GitHub Repository :** (https://github.com/moonyechan97/AIproject.git)
 - **세부기능**
@@ -60,7 +60,7 @@
 <hr>
 
 ### **Book Management (개인)**
-2023.07.15~07.22
+2024.07.15~07.22
 
 - **GitHub Repository :** (https://github.com/moonyechan97/BookService.git)
 
@@ -74,7 +74,7 @@
 <hr>
 
 ### **KOM CARD 홈페이지(개인)**
-2023.06.17~06.30
+2024.06.17~06.30
 
 
 - **GitHub Repository :** (https://github.com/moonyechan97/KOMcard.git)
@@ -86,7 +86,7 @@
 <hr>
 
 ### **Java console형 이메일 프로그램 (개인)**
-2023.04.10~04.24
+2024.04.10~04.24
 
 
 - **GitHub Repository :** (https://github.com/moonyechan97/EverydayMail.git)
