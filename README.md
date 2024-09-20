@@ -47,6 +47,16 @@
 </div>
 <br>
 
+## **프 로 젝 트 리 스 트**
+|구분|제목|인원|사용기술|
+|:---:|:---:|:---:|:---:|
+|웹|[카드 서비스](https://github.com/moonyechan97/moonyechan97?tab=readme-ov-file#kom-card-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EA%B0%9C%EC%9D%B8)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
+|웹|[카드, 은행, 증권 통합 서비스](https://github.com/Nyoung-Oh#java-dblink%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9D%80%ED%96%89-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|3인|`DBLink` `Redis`|
+|인공지능|[수어 탐지](https://github.com/Nyoung-Oh#yolo-mediapipe-lstm-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%88%98%EC%96%B4-%ED%83%90%EC%A7%80-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
+|웹|[도서 관리](https://github.com/Nyoung-Oh#spring-boot%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Spring Boot`|
+|자바|[이메일 서비스 콘솔 구현](https://github.com/Nyoung-Oh#java-oracledb%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%BD%98%EC%86%94-%EA%B5%AC%ED%98%84-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Java` `OracleDB`|
+<br/>
+
 ## **프 로 젝 트 이 력**
 
 ### **수어 인식(개인)**
